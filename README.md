@@ -6,7 +6,8 @@ Tu są gotowe instalatory programu **Gawęda** (Windows 10/11, 64-bit).
 → plik `Gaweda-Instalator-X.Y.Z.exe` → „Download raw file” → uruchom. Instalacja nad starszą wersją zachowuje konta, historie i filmy.
 
 Program sam sprawdza to repozytorium (plik `aktualizacja.json` na gałęzi `kanal`) i proponuje
-administratorowi aktualizację. Instaluje wyłącznie pliki podpisane kluczem autora (Ed25519) i o zgodnej
+aktualizację właścicielowi instalacji (lub administratorowi). Na tej gałęzi jest też dodatek „Lektor offline”
+(`dodatki/`: podpisany przepis instalacji i źródła Chatterbox – licencja MIT). Instaluje wyłącznie pliki podpisane kluczem autora (Ed25519) i o zgodnej
 sumie SHA-256 – podmieniony plik zostanie odrzucony.
 
 Kod źródłowy programu jest w osobnym, prywatnym repozytorium. Składniki na licencjach open source
