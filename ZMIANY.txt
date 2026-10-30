@@ -1,0 +1,3 @@
+Po zamknięciu okna program wyłącza się w tle po 2 minutach (wcześniej 3)
+Wyłączanie jest odporne na błędy: program nie może już zostać w tle bez okna, a w razie zacięcia kończy się najpóźniej 20 s po rozpoczęciu zamykania
+Dziennik zapisuje, kiedy okno się łączy, i dlaczego zamknięcie czeka (trwające generowanie albo publikacja)

@@ -1,0 +1,4 @@
+{
+ "dane": "{\"produkt\":\"gaweda\",\"wersja\":\"1.3.12\",\"opublikowano\":\"2026-10-30\",\"plik\":\"Gaweda-Instalator-1.3.12.exe\",\"sha256\":\"ce987daed2a740d774678f4686adac2b87c235a6b99b1d7e30da7fe91589e1b0\",\"rozmiar\":101037568,\"zmiany\":[\"Po zamknięciu okna program wyłącza się w tle po 2 minutach (wcześniej 3)\",\"Wyłączanie jest odporne na błędy: program nie może już zostać w tle bez okna, a w razie zacięcia kończy się najpóźniej 20 s po rozpoczęciu zamykania\",\"Dziennik zapisuje, kiedy okno się łączy, i dlaczego zamknięcie czeka (trwające generowanie albo publikacja)\"]}",
+ "podpis": "VIQQBfR5xDrO8DQxkEjx0Ka/HLlMUgoEFpDYaBr82zlkVIvTmMhWlcJesu/AiZ+r70SZ8IT1ynDFVVmKmN4hAg=="
+}
