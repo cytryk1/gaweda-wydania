@@ -1,0 +1,4 @@
+{
+ "dane": "{\"produkt\":\"gaweda\",\"wersja\":\"1.16.1\",\"opublikowano\":\"2026-11-02\",\"plik\":\"Gaweda-Instalator-1.16.1.exe\",\"sha256\":\"5a561714afbdf075c9ff3170ad73bd5a52dc15654c4b0bb643c2798f60be2d5a\",\"rozmiar\":99363840,\"zmiany\":[\"Generator historii z Google Gemini: model planuje historię krócej (niski poziom „myślenia”), więc pierwsze części pojawiają się szybko zamiast po kilku minutach oczekiwania\",\"Gdy Gemini jest przeciążony, program po dwóch próbach sam pisze historię innym, lżejszym modelem zamiast kończyć błędem\"]}",
+ "podpis": "7qW63mdLeN4iEWjZwUTW4566bh/kc9QzcM0OArJZWRUbuKiyZceq8OS0/vCfs+VHOh0d9Yd6LgDNcWkmq7pICg=="
+}
