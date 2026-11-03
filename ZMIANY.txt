@@ -1,2 +1,6 @@
-Generator historii z Google Gemini: model planuje historię krócej (niski poziom „myślenia”), więc pierwsze części pojawiają się szybko zamiast po kilku minutach oczekiwania
-Gdy Gemini jest przeciążony, program po dwóch próbach sam pisze historię innym, lżejszym modelem zamiast kończyć błędem
+Wersja testowa (beta): nowa droga publikacji na Instagram – sprawdź ją przyciskiem „Sprawdź Instagram” w Ustawieniach → Publikowanie
+Instagram połączony przez stronę: gdy publikujesz część naraz na Facebook i Instagram, Instagram pobiera film opublikowany na Twojej stronie – bez wysyłki pliku i kopii roboczej, które przy tym połączeniu Meta odrzucała
+Nowy przycisk „Sprawdź Instagram”: sprawdza na najkrótszym filmie ze strony, czy Instagram go przyjmie – niczego nie publikuje
+Jaśniejsze komunikaty, gdy Instagram odrzuca film (bez mylącego „blokada konta”), z podpowiedzią, co zrobić
+Okno „Harmonogram serii” przy „Zaplanuj serię…”: zakres części, dzień startu, godziny i dni tygodnia publikacji z podglądem terminów – bez wchodzenia w Ustawienia
+Generator historii pisze części po ok. 200 słów
