@@ -1,5 +1,6 @@
-Wersja testowa (beta): nowy test publikacji na Instagram – Ustawienia → Publikowanie → „Sprawdź Instagram”
-Test wysyła do Instagrama wycinki 15, 30, 40 i 50 s oraz całą część tą samą drogą co publikacja (niczego nie publikuje) i pokazuje, jak długie filmy Twoje konto przyjmuje przez API
-Instagram wysyłany tylko bezpośrednio plikiem – usunięte drogi przez Facebooka (kopia robocza i film ze strony), których Instagram nie przyjmował
-Gdy Instagram przyjmuje tylko krótsze filmy, harmonogram odkłada dłuższe części na Instagram i sprawdza limit ponownie co dobę
-Poprawka: w Ustawieniach → Publikowanie bez połączonego konta nie pojawia się już napis „null”
+Wersja testowa (beta): Instagram dostaje dłuższe części jako kilka krótszych klipów
+Gdy Instagram przyjmuje z Twojego konta przez API tylko krótsze filmy (np. do 30 s), Gawęda dzieli część na klipy w tym limicie – cięte na pauzach w głosie, żeby nie urywać słów
+Klipy wychodzą jeden po drugim z numerem w tytule, np. „Tytuł – część 3/20 (1/3)”; Facebook i YouTube dostają całą część
+Gdy któryś klip się nie uda, ponowienie wysyła tylko brakujące klipy – bez duplikatów
+Harmonogram nie odkłada już takich części na Instagram – wychodzą razem z resztą serii
+Poprawka: w oknie publikacji nie pojawia się już napis „null”
