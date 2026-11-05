@@ -1,4 +1,4 @@
 {
- "dane": "{\"produkt\":\"gaweda\",\"wersja\":\"2.1.1\",\"opublikowano\":\"2026-11-05\",\"plik\":\"Gaweda-Instalator-2.1.1.exe\",\"sha256\":\"a56e2dcff2f77e23144872802fc0ff2e0502868570f960a3d2f41b8eb4dd3071\",\"rozmiar\":99406336,\"zmiany\":[\"Logowanie przez Facebooka korzysta teraz z „Facebook Login for Business” – po aktualizacji zaloguj się przez Facebooka jeszcze raz (Ustawienia → Publikowanie)\",\"Po ponownym zalogowaniu kliknij „Sprawdź Instagram” – jeśli Instagram przyjmie film, osobny token „Instagram bezpośrednio” nie będzie już potrzebny\"]}",
- "podpis": "dBw1vV1n/41DyQfdYdn72BojVw/GnQoyQG4hMgCGAO23GeSoU4YJWoFBnOn6KQx6Xd1CVrfjIWWf68+3RU8RAg=="
+ "dane": "{\"produkt\":\"gaweda\",\"wersja\":\"2.1.2\",\"opublikowano\":\"2026-11-05\",\"plik\":\"Gaweda-Instalator-2.1.2.exe\",\"sha256\":\"a1388a6b3f4cc64eca144ff9591d99c66143f80aa32f077212e8e265f73d30ed\",\"rozmiar\":99406336,\"zmiany\":[\"Poprawione logowanie przez Facebooka (Facebook Login for Business z tokenem użytkownika) – zaloguj się przez Facebooka jeszcze raz i zaznacz swoją stronę oraz konto Instagram\"]}",
+ "podpis": "C34FBCkIEjmdUs9M6dtn1PGjCrqMu9kg88qEkpupan7ExwqwoF5Z9hkXtEUAZkMb99gSNpW39QsjCvNGAWeoDw=="
 }
