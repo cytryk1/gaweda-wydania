@@ -1,6 +1,8 @@
-Wersja testowa (beta): Instagram dostaje dłuższe części jako kilka krótszych klipów
-Gdy Instagram przyjmuje z Twojego konta przez API tylko krótsze filmy (np. do 30 s), Gawęda dzieli część na klipy w tym limicie – cięte na pauzach w głosie, żeby nie urywać słów
-Klipy wychodzą jeden po drugim z numerem w tytule, np. „Tytuł – część 3/20 (1/3)”; Facebook i YouTube dostają całą część
-Gdy któryś klip się nie uda, ponowienie wysyła tylko brakujące klipy – bez duplikatów
-Harmonogram nie odkłada już takich części na Instagram – wychodzą razem z resztą serii
-Poprawka: w oknie publikacji nie pojawia się już napis „null”
+Gawęda 2.0: publikacja na TikToka – jako szkic w aplikacji TikTok albo od razu na profil (z wyborem widoczności i zgodami wymaganymi przez TikToka)
+Logowanie jednym kliknięciem: „Zaloguj przez Facebooka”, „Zaloguj przez Google” i „Zaloguj przez TikToka” zamiast wklejania kluczy (gdy wydawca włączy je w programie; tryb z kluczami zostaje w „Zaawansowane”)
+YouTube: do wyboru Shortsy, cały film (części sklejone w jeden z rozdziałami) albo cały film + Shortsy z odnośnikiem do niego
+Nowe okno publikacji: podgląd filmu, karty platform „Facebook: podłączono „nazwa”” i ustawienia każdej platformy w jednym miejscu
+Nowa zakładka „Wyświetlenia”: wyświetlenia, polubienia, komentarze i obserwujący ze wszystkich podłączonych kont
+Foldery serii nazywają się teraz „Tytuł serii 10 części 5.11.2026”
+„Twoje filmy”: bez „Pobierz .zip”, „Pokaż w folderze” w kolorze programu; krok 4 i 5 bez zbędnych wskazówek
+Zaktualizowana polityka prywatności (logowanie, TikTok, statystyki)
