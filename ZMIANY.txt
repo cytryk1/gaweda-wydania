@@ -1,1 +1,2 @@
-Nowa aplikacja TikTok (organizacja GawedaAI) – zaloguj się przez TikToka jeszcze raz
+Naprawione: po udanym logowaniu przez Facebooka, TikToka albo Google program czasem pokazywał „Logowanie wygasło” – teraz czeka, aż logowanie się zakończy
+TikTok: program zapisuje w dzienniku stany przetwarzania filmu (pomaga zdiagnozować szkice, które długo „czekają na przetworzenie”)

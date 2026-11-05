@@ -1,4 +1,4 @@
 {
- "dane": "{\"produkt\":\"gaweda\",\"wersja\":\"2.1.3\",\"opublikowano\":\"2026-11-05\",\"plik\":\"Gaweda-Instalator-2.1.3.exe\",\"sha256\":\"a6a09f898735afd61023a8a7688d6c5f2455371960f6ec70e86687a8689e6e31\",\"rozmiar\":99406336,\"zmiany\":[\"Nowa aplikacja TikTok (organizacja GawedaAI) – zaloguj się przez TikToka jeszcze raz\"]}",
- "podpis": "YQhQLmetB5n6daYyUj99gbnKWPx6+MTYMU0CZn33mMRtqlRnoLyXLK1WoujU+mSpZdXcQ/vqlXVSNsTUwqF1AA=="
+ "dane": "{\"produkt\":\"gaweda\",\"wersja\":\"2.1.4\",\"opublikowano\":\"2026-11-05\",\"plik\":\"Gaweda-Instalator-2.1.4.exe\",\"sha256\":\"6cc9a1e053cf9b33fccd9249ac3e0b99bdf44f547bbd4b957370f67c39773735\",\"rozmiar\":99406848,\"zmiany\":[\"Naprawione: po udanym logowaniu przez Facebooka, TikToka albo Google program czasem pokazywał „Logowanie wygasło” – teraz czeka, aż logowanie się zakończy\",\"TikTok: program zapisuje w dzienniku stany przetwarzania filmu (pomaga zdiagnozować szkice, które długo „czekają na przetworzenie”)\"]}",
+ "podpis": "AcFhQFYmgWdhKnyRWKCZcRibHXXjO5kEkHjsjaVMb8HQjeSR4pdX27+lagfCJERVYJYYgZYtTGvcjVC56K82Dw=="
 }
