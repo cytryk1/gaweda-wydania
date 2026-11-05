@@ -1,3 +1,5 @@
-Włączone logowanie jednym kliknięciem: „Zaloguj przez Facebooka” (strona na Facebooku i Instagram strony, ze zgodą na statystyki) i „Zaloguj przez Google” (YouTube) – bez wklejania kluczy
-Po aktualizacji: Ustawienia programu → Publikowanie → zaloguj się ponownie, żeby zakładka „Wyświetlenia” pokazywała liczby z Facebooka i Instagrama
-Logowanie przez TikToka – w następnej wersji
+TikTok: „Zaloguj przez TikToka” w Ustawieniach → Publikowanie, publikacja na TikToka (szkic w aplikacji albo od razu na profil) i liczby w zakładce „Wyświetlenia” – na razie tylko filmy prywatne, do czasu zatwierdzenia aplikacji przez TikToka
+„Anuluj” w okienku „Publikacje”: przy części i przy każdej platformie – część w kolejce znika bez wysyłki, a trwająca wysyłka zostaje przerwana, zanim film trafi na profil
+Instagram: wynik „Sprawdź Instagram” zapamiętywany osobno dla połączenia bezpośredniego i przez stronę (i czyszczony po ponownym połączeniu)
+Instagram: wklejony token jest oczyszczany ze spacji, enterów i niewidocznych znaków (koniec błędu „Cannot parse access token”)
+Jaśniejszy komunikat, gdy Instagram przez stronę na Facebooku nie przyjmuje pliku – do publikacji na Instagram potrzebny jest token „Instagram bezpośrednio”
