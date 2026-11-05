@@ -1,1 +1,1 @@
-Poprawione logowanie przez Facebooka (Facebook Login for Business z tokenem użytkownika) – zaloguj się przez Facebooka jeszcze raz i zaznacz swoją stronę oraz konto Instagram
+Nowa aplikacja TikTok (organizacja GawedaAI) – zaloguj się przez TikToka jeszcze raz

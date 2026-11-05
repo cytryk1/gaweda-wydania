@@ -1,4 +1,4 @@
 {
- "dane": "{\"produkt\":\"gaweda\",\"wersja\":\"2.1.2\",\"opublikowano\":\"2026-11-05\",\"plik\":\"Gaweda-Instalator-2.1.2.exe\",\"sha256\":\"a1388a6b3f4cc64eca144ff9591d99c66143f80aa32f077212e8e265f73d30ed\",\"rozmiar\":99406336,\"zmiany\":[\"Poprawione logowanie przez Facebooka (Facebook Login for Business z tokenem użytkownika) – zaloguj się przez Facebooka jeszcze raz i zaznacz swoją stronę oraz konto Instagram\"]}",
- "podpis": "C34FBCkIEjmdUs9M6dtn1PGjCrqMu9kg88qEkpupan7ExwqwoF5Z9hkXtEUAZkMb99gSNpW39QsjCvNGAWeoDw=="
+ "dane": "{\"produkt\":\"gaweda\",\"wersja\":\"2.1.3\",\"opublikowano\":\"2026-11-05\",\"plik\":\"Gaweda-Instalator-2.1.3.exe\",\"sha256\":\"a6a09f898735afd61023a8a7688d6c5f2455371960f6ec70e86687a8689e6e31\",\"rozmiar\":99406336,\"zmiany\":[\"Nowa aplikacja TikTok (organizacja GawedaAI) – zaloguj się przez TikToka jeszcze raz\"]}",
+ "podpis": "YQhQLmetB5n6daYyUj99gbnKWPx6+MTYMU0CZn33mMRtqlRnoLyXLK1WoujU+mSpZdXcQ/vqlXVSNsTUwqF1AA=="
 }
