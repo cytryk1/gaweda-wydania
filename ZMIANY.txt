@@ -1,2 +1,2 @@
-Naprawione: po udanym logowaniu przez Facebooka, TikToka albo Google program czasem pokazywał „Logowanie wygasło” – teraz czeka, aż logowanie się zakończy
-TikTok: program zapisuje w dzienniku stany przetwarzania filmu (pomaga zdiagnozować szkice, które długo „czekają na przetworzenie”)
+Zakładka „Wyświetlenia” otwiera się od razu – liczby dochodzą w ciągu kilku sekund, a platformy i filmy są sprawdzane równolegle zamiast po kolei
+TikTok: przycisk „Anuluj” znika, gdy film jest już wysłany i TikTok go przetwarza (wtedy anulowanie nic by nie dało)

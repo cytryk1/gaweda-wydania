@@ -1,4 +1,4 @@
 {
- "dane": "{\"produkt\":\"gaweda\",\"wersja\":\"2.1.4\",\"opublikowano\":\"2026-11-05\",\"plik\":\"Gaweda-Instalator-2.1.4.exe\",\"sha256\":\"6cc9a1e053cf9b33fccd9249ac3e0b99bdf44f547bbd4b957370f67c39773735\",\"rozmiar\":99406848,\"zmiany\":[\"Naprawione: po udanym logowaniu przez Facebooka, TikToka albo Google program czasem pokazywał „Logowanie wygasło” – teraz czeka, aż logowanie się zakończy\",\"TikTok: program zapisuje w dzienniku stany przetwarzania filmu (pomaga zdiagnozować szkice, które długo „czekają na przetworzenie”)\"]}",
- "podpis": "AcFhQFYmgWdhKnyRWKCZcRibHXXjO5kEkHjsjaVMb8HQjeSR4pdX27+lagfCJERVYJYYgZYtTGvcjVC56K82Dw=="
+ "dane": "{\"produkt\":\"gaweda\",\"wersja\":\"2.1.5\",\"opublikowano\":\"2026-11-06\",\"plik\":\"Gaweda-Instalator-2.1.5.exe\",\"sha256\":\"a03d86afb59366b29a900aa53af30c78b7ee631697a655f1668a51df9c7ae042\",\"rozmiar\":99407872,\"zmiany\":[\"Zakładka „Wyświetlenia” otwiera się od razu – liczby dochodzą w ciągu kilku sekund, a platformy i filmy są sprawdzane równolegle zamiast po kolei\",\"TikTok: przycisk „Anuluj” znika, gdy film jest już wysłany i TikTok go przetwarza (wtedy anulowanie nic by nie dało)\"]}",
+ "podpis": "DApqyAJldW6WZm10BUb0C/Dc418+RhLZERAsR55smg3AM3UAO+acX4F7ILCHuOZ+YPz7vOXanaZ3mA35Nnl6BQ=="
 }
