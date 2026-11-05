@@ -1,3 +1,2 @@
-Gawęda 2.1: logowanie przez TikToka z nową aplikacją TikTok (Ustawienia → Publikowanie → „Zaloguj przez TikToka”)
-Publikacja na TikToka: szkic w aplikacji albo od razu na profil (do czasu zatwierdzenia aplikacji przez TikToka – filmy prywatne)
-Zawiera wszystko z 2.0.2: przycisk „Anuluj” w okienku „Publikacje” i poprawki Instagrama
+Logowanie przez Facebooka korzysta teraz z „Facebook Login for Business” – po aktualizacji zaloguj się przez Facebooka jeszcze raz (Ustawienia → Publikowanie)
+Po ponownym zalogowaniu kliknij „Sprawdź Instagram” – jeśli Instagram przyjmie film, osobny token „Instagram bezpośrednio” nie będzie już potrzebny

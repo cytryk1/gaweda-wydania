@@ -1,4 +1,4 @@
 {
- "dane": "{\"produkt\":\"gaweda\",\"wersja\":\"2.1.0\",\"opublikowano\":\"2026-11-05\",\"plik\":\"Gaweda-Instalator-2.1.0.exe\",\"sha256\":\"6e72a21e80892bc3ddc3a4e98a2f1a0e9992d2ef4a59c0968ddd6e248767044f\",\"rozmiar\":99406336,\"zmiany\":[\"Gawęda 2.1: logowanie przez TikToka z nową aplikacją TikTok (Ustawienia → Publikowanie → „Zaloguj przez TikToka”)\",\"Publikacja na TikToka: szkic w aplikacji albo od razu na profil (do czasu zatwierdzenia aplikacji przez TikToka – filmy prywatne)\",\"Zawiera wszystko z 2.0.2: przycisk „Anuluj” w okienku „Publikacje” i poprawki Instagrama\"]}",
- "podpis": "vTVhgTkkZxWKrV9H6PH7Zd/75Cxzyz24Pdv1y7HbG6EIBETa7roVQLCuwiNkcyvGBFO7trCB+DY906Sdff48Cw=="
+ "dane": "{\"produkt\":\"gaweda\",\"wersja\":\"2.1.1\",\"opublikowano\":\"2026-11-05\",\"plik\":\"Gaweda-Instalator-2.1.1.exe\",\"sha256\":\"a56e2dcff2f77e23144872802fc0ff2e0502868570f960a3d2f41b8eb4dd3071\",\"rozmiar\":99406336,\"zmiany\":[\"Logowanie przez Facebooka korzysta teraz z „Facebook Login for Business” – po aktualizacji zaloguj się przez Facebooka jeszcze raz (Ustawienia → Publikowanie)\",\"Po ponownym zalogowaniu kliknij „Sprawdź Instagram” – jeśli Instagram przyjmie film, osobny token „Instagram bezpośrednio” nie będzie już potrzebny\"]}",
+ "podpis": "dBw1vV1n/41DyQfdYdn72BojVw/GnQoyQG4hMgCGAO23GeSoU4YJWoFBnOn6KQx6Xd1CVrfjIWWf68+3RU8RAg=="
 }
