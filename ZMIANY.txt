@@ -1,3 +1,5 @@
-Instagram: filmy wysyłane na Instagram są mniejsze (ok. 11 MB) – Instagram odrzucał większe pliki („Request processing failed”), także krótkie klipy; dłuższe części częściej przejdą w całości, bez dzielenia na klipy
-Instagram: usunięto „Instagram bezpośrednio” (wklejany token z panelu Meta) – wystarcza logowanie przez Facebooka; zapisany wcześniej token zostaje usunięty z komputera przy starcie
-Linki w programie (polityki, „zobacz ↗”, YouTube Studio) otwierają się w Twojej domyślnej przeglądarce, a nie w oknie Edge
+Generator historii pisze teraz jedną długą, ciągłą historię – od 5 do 60 minut (np. na cały film na YouTube). Program sam dzieli ją na części według długości z kroku 5, a z całości zrobisz długi film (tryb YouTube „Cały film” albo „Film + Shorts”)
+Generator: model najpierw planuje rozdziały i pisze je po kolei – postęp pokazuje rozdział i liczbę napisanych słów
+Instagram: komunikat po odrzuceniu filmu mówi o limicie długości albo rozmiaru pliku (Meta ogranicza głównie rozmiar)
+Publikacja: gdy pliku części nie da się odczytać, widać czytelny komunikat zamiast „Nieoczekiwany błąd”
+Porządki w kodzie: usunięte nieużywane fragmenty; przy starcie program kasuje stare, nieaktualne wyniki „Sprawdź Instagram”
