@@ -1,4 +1,3 @@
-Instagram: program sam próbuje każdej dostępnej drogi wysyłki (token „Instagram bezpośrednio”, logowanie przez Facebooka – token użytkownika, token strony) i zapamiętuje tę, którą Instagram przyjmuje
-„Sprawdź Instagram” pokazuje, która droga działa – po logowaniu przez Facebooka osobny token może nie być już potrzebny
-„Instagram bezpośrednio”: token łączy się także wtedy, gdy Meta nie zwraca listy przypisanych kont
-Gdy serwer Instagrama zgłosi błąd, a film i tak do niego dotarł w całości, program dokończy publikację zamiast ją przerywać
+Instagram: filmy wysyłane na Instagram są mniejsze (ok. 11 MB) – Instagram odrzucał większe pliki („Request processing failed”), także krótkie klipy; dłuższe części częściej przejdą w całości, bez dzielenia na klipy
+Instagram: usunięto „Instagram bezpośrednio” (wklejany token z panelu Meta) – wystarcza logowanie przez Facebooka; zapisany wcześniej token zostaje usunięty z komputera przy starcie
+Linki w programie (polityki, „zobacz ↗”, YouTube Studio) otwierają się w Twojej domyślnej przeglądarce, a nie w oknie Edge
