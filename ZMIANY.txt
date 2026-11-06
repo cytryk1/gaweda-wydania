@@ -1,2 +1,4 @@
-Zakładka „Wyświetlenia” otwiera się od razu – liczby dochodzą w ciągu kilku sekund, a platformy i filmy są sprawdzane równolegle zamiast po kolei
-TikTok: przycisk „Anuluj” znika, gdy film jest już wysłany i TikTok go przetwarza (wtedy anulowanie nic by nie dało)
+Instagram: program sam próbuje każdej dostępnej drogi wysyłki (token „Instagram bezpośrednio”, logowanie przez Facebooka – token użytkownika, token strony) i zapamiętuje tę, którą Instagram przyjmuje
+„Sprawdź Instagram” pokazuje, która droga działa – po logowaniu przez Facebooka osobny token może nie być już potrzebny
+„Instagram bezpośrednio”: token łączy się także wtedy, gdy Meta nie zwraca listy przypisanych kont
+Gdy serwer Instagrama zgłosi błąd, a film i tak do niego dotarł w całości, program dokończy publikację zamiast ją przerywać
