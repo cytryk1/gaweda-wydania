@@ -1,5 +1,5 @@
-Generator historii pisze teraz jedną długą, ciągłą historię – od 5 do 60 minut (np. na cały film na YouTube). Program sam dzieli ją na części według długości z kroku 5, a z całości zrobisz długi film (tryb YouTube „Cały film” albo „Film + Shorts”)
-Generator: model najpierw planuje rozdziały i pisze je po kolei – postęp pokazuje rozdział i liczbę napisanych słów
-Instagram: komunikat po odrzuceniu filmu mówi o limicie długości albo rozmiaru pliku (Meta ogranicza głównie rozmiar)
-Publikacja: gdy pliku części nie da się odczytać, widać czytelny komunikat zamiast „Nieoczekiwany błąd”
-Porządki w kodzie: usunięte nieużywane fragmenty; przy starcie program kasuje stare, nieaktualne wyniki „Sprawdź Instagram”
+Lektor offline: nowe głosy M3, M4, M5 (mężczyzna) i K5 (kobieta) – szybkie, wyraźne, w stylu filmów z historiami; przy tempie +10% brzmią jak wybrane próbki
+Stare głosy lektora offline („Viral” i „Spokojny”) są usuwane – nowe pobiorą się same w tle przy pierwszym uruchomieniu (ok. 330 MB)
+Szybsze generowanie: lektor kolejnej części nagrywa się od razu po poprzedniej, bez czekania na złożenie filmu
+Lektor offline wczytuje głos raz na całe zadanie, a nie przy każdej części – oszczędza kilka sekund na każdym filmie
+Nowe głosy mają licencję pozwalającą na zarabianie na filmach (CC BY-SA 4.0); informacja w oknie „Licencje”
