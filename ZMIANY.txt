@@ -1,3 +1,5 @@
-Długość części: zalecana opcja to teraz ok. 75 s (zwykle 60–85 s) – liczona według wybranego głosu i tempa; dotąd przy lektorze offline części wychodziły do ok. 105 s
-Równiejsze części: gdy koniec akapitu wypada daleko od wybranej długości, program tnie między zdaniami
-Dokładniejsze tempo lektora offline (pomiar na prawdziwej historii) – trafniejsze długości części i historii z generatora
+TikTok: gdy TikTok długo przetwarza film, część nie jest już oznaczana jako błąd – program pokazuje „TikTok jeszcze przetwarza” i sam sprawdza stan w tle (do 2 godzin)
+TikTok: kolejna część w harmonogramie czeka na przetworzenie poprzedniej najwyżej 5 minut (dotąd do 15)
+Krok 5: pełne opisy opcji (długość części, obciążenie komputera) nie są już ucinane
+Przycisk „Wymyśl historię z AI” w kolorze akcentu programu, bez fioletowego gradientu i błysku
+Okno „Wyświetlenia” bez połączonych kont mówi, co zrobić, zamiast „Pobieram liczby…”
