@@ -1,5 +1,2 @@
-TikTok: gdy TikTok długo przetwarza film, część nie jest już oznaczana jako błąd – program pokazuje „TikTok jeszcze przetwarza” i sam sprawdza stan w tle (do 2 godzin)
-TikTok: kolejna część w harmonogramie czeka na przetworzenie poprzedniej najwyżej 5 minut (dotąd do 15)
-Krok 5: pełne opisy opcji (długość części, obciążenie komputera) nie są już ucinane
-Przycisk „Wymyśl historię z AI” w kolorze akcentu programu, bez fioletowego gradientu i błysku
-Okno „Wyświetlenia” bez połączonych kont mówi, co zrobić, zamiast „Pobieram liczby…”
+Panel programu i panel na stronie Gawędy korzystają teraz z tych samych plików – zmiany wyglądu i działania trafiają od razu w oba miejsca
+Style napisów, głosy lektora offline i zasady podziału na części są w jednym miejscu, więc program i strona liczą części identycznie
