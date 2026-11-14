@@ -1,2 +1,5 @@
-Panel programu i panel na stronie Gawędy korzystają teraz z tych samych plików – zmiany wyglądu i działania trafiają od razu w oba miejsca
-Style napisów, głosy lektora offline i zasady podziału na części są w jednym miejscu, więc program i strona liczą części identycznie
+Nowy panel rolek na Twojej stronie (tylko dla Ciebie): wyświetlenia, polubienia i komentarze rolek z YouTube, Facebooka, Instagrama i TikToka w czasie, ranking i wykres
+Panel wskazuje rolki, które się „wybiły” albo przyspieszają (to własne obliczenie Gawędy, nie dana platformy)
+Opcjonalny raport „Co przyciąga ludzi”: Gemini opisuje, jakie cechy rolek (długość, głos, pora publikacji, początek historii) idą w parze z wysokimi wynikami
+Wysyłka danych na stronę jest domyślnie wyłączona: włączasz ją w Ustawieniach (Panel rolek), wpisując klucz
+Dokładniejsze statystyki: wygasłe połączenie z platformą jest odróżniane od chwilowego braku liczb, a niepełne dane nie są pokazywane jako zera
