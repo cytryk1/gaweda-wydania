@@ -1,5 +1,3 @@
-Nowy panel rolek na Twojej stronie (tylko dla Ciebie): wyświetlenia, polubienia i komentarze rolek z YouTube, Facebooka, Instagrama i TikToka w czasie, ranking i wykres
-Panel wskazuje rolki, które się „wybiły” albo przyspieszają (to własne obliczenie Gawędy, nie dana platformy)
-Opcjonalny raport „Co przyciąga ludzi”: Gemini opisuje, jakie cechy rolek (długość, głos, pora publikacji, początek historii) idą w parze z wysokimi wynikami
-Wysyłka danych na stronę jest domyślnie wyłączona: włączasz ją w Ustawieniach (Panel rolek), wpisując klucz
-Dokładniejsze statystyki: wygasłe połączenie z platformą jest odróżniane od chwilowego braku liczb, a niepełne dane nie są pokazywane jako zera
+Panel rolek na stronie: po kliknięciu rolki pojawia się karta ze szczegółami: wyświetlenia, polubienia, komentarze, zasięg, średni czas oglądania i link do filmu
+Średni czas oglądania i zasięg są pobierane z Instagrama i Facebooka; przy YouTube czas oglądania wymaga dodatkowej zgody Google (jeszcze nie włączone), a TikTok go nie udostępnia
+Poprawiony wygląd pól „Wysyłaj pomiary na stronę” i „Pisz raport” w Ustawieniach
