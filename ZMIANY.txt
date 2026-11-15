@@ -1,3 +1,2 @@
-YouTube: cały długi film ma teraz osobny przycisk „Opublikuj cały film”, który działa tylko raz (po opublikowaniu znika, zostaje link do filmu)
-YouTube: każda część jest zawsze publikowana jako Short, a po opublikowaniu całego filmu Shorty dostają w opisie odnośnik do niego
-Usunięty wybór trybów „Shorts / Cały film / Film + Shorts” z okna publikacji (cały film publikuje się osobnym przyciskiem, niezależnie od publikacji części i całej serii)
+Instagram: pojedynczy klip odrzucony przez Metę („Request processing failed”) jest ponawiany automatycznie (do 2 razy, po 20 s), zanim cała część zostanie oznaczona jako błąd
+Szybsze działanie programu: odczyty zadań bez kopiowania pełnego tekstu historii, odczyt pakietu bez zbędnej transakcji i szybsza lista teł w bibliotece
