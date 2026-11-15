@@ -1,3 +1,3 @@
-Filmy usunięte z YouTube, Facebooka lub Instagrama znikają same z panelu rolek na stronie (program sprawdza to przy synchronizacji, a w panelu jest też przycisk „Usuń z panelu”)
-YouTube: po ponownym połączeniu konta (nowa zgoda na statystyki) panel pokazuje średni czas oglądania oraz wiek, płeć i kraje widzów każdego filmu
-Bezpieczniejsze usuwanie: film jest usuwany z panelu dopiero po powtórzonym braku w odstępie co najmniej 6 godzin i tylko przy działającym połączeniu z platformą
+YouTube: cały długi film ma teraz osobny przycisk „Opublikuj cały film”, który działa tylko raz (po opublikowaniu znika, zostaje link do filmu)
+YouTube: każda część jest zawsze publikowana jako Short, a po opublikowaniu całego filmu Shorty dostają w opisie odnośnik do niego
+Usunięty wybór trybów „Shorts / Cały film / Film + Shorts” z okna publikacji (cały film publikuje się osobnym przyciskiem, niezależnie od publikacji części i całej serii)
