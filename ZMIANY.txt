@@ -1,2 +1,1 @@
-Instagram: pojedynczy klip odrzucony przez Metę („Request processing failed”) jest ponawiany automatycznie (do 2 razy, po 20 s), zanim cała część zostanie oznaczona jako błąd
-Szybsze działanie programu: odczyty zadań bez kopiowania pełnego tekstu historii, odczyt pakietu bez zbędnej transakcji i szybsza lista teł w bibliotece
+Poprawka błędu z 2.3.5: lista teł w bibliotece nie ładowała się (błąd 500, puste tła); tła wracają, nic nie zostało usunięte

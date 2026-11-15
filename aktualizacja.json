@@ -1,4 +1,4 @@
 {
- "dane": "{\"produkt\":\"gaweda\",\"wersja\":\"2.3.5\",\"opublikowano\":\"2026-11-15\",\"plik\":\"Gaweda-Instalator-2.3.5.exe\",\"sha256\":\"167ac39dba174fa0f2962c2fc2de47f651a08de1ace722971d4dfcfa01482f7b\",\"rozmiar\":100650496,\"zmiany\":[\"Instagram: pojedynczy klip odrzucony przez Metę („Request processing failed”) jest ponawiany automatycznie (do 2 razy, po 20 s), zanim cała część zostanie oznaczona jako błąd\",\"Szybsze działanie programu: odczyty zadań bez kopiowania pełnego tekstu historii, odczyt pakietu bez zbędnej transakcji i szybsza lista teł w bibliotece\"]}",
- "podpis": "68LIIbMvTIa7lAvyiZqewZg+FTYbciSQR7PPNqata0rHEhpz6ZFXP3AcYiVlRMTf4VUXYB7mo/iXjC7VkY4zBQ=="
+ "dane": "{\"produkt\":\"gaweda\",\"wersja\":\"2.3.6\",\"opublikowano\":\"2026-11-16\",\"plik\":\"Gaweda-Instalator-2.3.6.exe\",\"sha256\":\"2ecbdfba8b351528dee9a33863f6b4adbe2ffa1cc09c1a313470150628a6ba62\",\"rozmiar\":100650496,\"zmiany\":[\"Poprawka błędu z 2.3.5: lista teł w bibliotece nie ładowała się (błąd 500, puste tła); tła wracają, nic nie zostało usunięte\"]}",
+ "podpis": "LdNLCBbF2BbpOoYYYmlocvj+eKiuxJIGHQ7kdkquRzi0iQli7N70j1KqP1TPVg6LYib4hPRMQQhDMQfnFu35CA=="
 }
